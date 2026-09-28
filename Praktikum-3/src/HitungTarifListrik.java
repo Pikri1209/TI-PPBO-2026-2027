@@ -56,4 +56,5 @@ public class HitungTarifListrik {
 
         input.close();
     }
+    
 }
