@@ -8,5 +8,4 @@ public class tidaklulus {
             System.out.println("Anda TIDAK LULUS");
         }
     }
-
 }
