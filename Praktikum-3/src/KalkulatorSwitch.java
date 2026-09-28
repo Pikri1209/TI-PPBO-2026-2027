@@ -10,7 +10,7 @@ public class KalkulatorSwitch {
         char op = sc.next().charAt(0);
         System.out.print("Angka kedua: ");
         double b = sc.nextDouble();
-
+        
         double hasil = 0;
         switch (op) {
             case '+': hasil = a + b; break;
