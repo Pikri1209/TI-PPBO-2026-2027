@@ -5,5 +5,6 @@ public class WhileDemo {
             System.out.println("Iterasi Ke-" + i );
             i++;
         }
+        
     }
 }
