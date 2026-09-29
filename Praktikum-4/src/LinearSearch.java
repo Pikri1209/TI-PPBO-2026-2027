@@ -4,7 +4,7 @@ public class LinearSearch {
 
         int cari = 90;
         int posisi = -1;
-
+        
         for (int i = 0; i < nilai.length; i++) {
             if (nilai[i] == cari) {
                 posisi = i;
