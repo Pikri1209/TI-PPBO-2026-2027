@@ -6,7 +6,7 @@ public class Forbiasa {
         for (int i = 0; i < nilai.length; i++) {
             System.out.println("Indeks " + i + ": " + nilai[i]);
         }
-
+        
         System.out.println("--- Menggunakan enhanced for ---");
         for (int n : nilai) {
             System.out.println(n);
