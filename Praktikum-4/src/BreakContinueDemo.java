@@ -3,7 +3,7 @@ public class BreakContinueDemo {
         System.out.println("Menggunakan break:");
         for (int i = 1; i <= 10; i++) {
             if (i == 5) {
-                break; // loop langsung berhenti total
+                break;
             }
             System.out.println(i);
         }
@@ -11,7 +11,7 @@ public class BreakContinueDemo {
         System.out.println("Menggunakan continue:");
         for (int i = 1; i <= 10; i++) {
             if (i % 2 == 0) {
-                continue; // lewati angka genap, lanjut ke iterasi berikutnya
+                continue;
             }
             System.out.println(i);
         }
