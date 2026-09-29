@@ -10,7 +10,6 @@ public class DoWhileDemo {
             angka = input.nextInt();
             System.out.println("masukkan angka " + angka);
         } while(angka != 0);
-
         System.out.println("progam berhenti): ");
     }
 }
